@@ -1,0 +1,12 @@
+C:\Users\Diana\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\Diana\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\Diana\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\Diana\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\Diana\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\Diana\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\Diana Webster ISM112.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\New folder\WebApplication Diana Webster\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\Diana\Desktop\New folder\WebApplication Diana Webster\WebApplication6\bin\WebApplication6.dll
+C:\Users\Diana\Desktop\New folder\WebApplication Diana Webster\WebApplication6\bin\WebApplication6.pdb
+C:\Users\Diana\Desktop\New folder\WebApplication Diana Webster\WebApplication6\obj\Debug\Diana Webster ISM112.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\New folder\WebApplication Diana Webster\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\Diana\Desktop\New folder\WebApplication Diana Webster\WebApplication6\obj\Debug\WebApplication6.pdb
